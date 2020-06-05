@@ -19,10 +19,6 @@ To address the concerns noted above, NOAA Fisheries has developed a new, innovat
 
 The main purpose of this tool is to demonstrate how we can better present and visualize marine ecosystems, their marine resources, and their collective responses to a range of pressures. VES-V can be directly linked to and utilize output files from ecosystem models such as Atlantis, Multi-Species Production and Age-Structured Models, or Ecopath with Ecosim to explore different marine management scenarios. VES-V is designed to handle a wide range of model outputs and data, such that survey time series or even multiple single-species stock assessment outputs could also be used to explore this virtual ocean world.
 
-Getting Started
-To get started download the "NOAA_VES-V" zip file that works with your operating system (PC, OSX, or Linux) from the VES-V 2020 Google Drive folder (https://drive.google.com/open?id=1L-6SUXMEsqaw2txtXmCGq9d3k9nU-obV) to a directory on your computer and unzip the file. Click the "NOAA_VES-V.exe" and you are up and running. The User Manual in this Github repository explains how to operate the software, so download that and read it to get familiar with VES-V. Note: this is the user manual from the previous version of VES-V some new features have been added, they will be describe in the soon-to-be released new user manual.
-
-For advanced users (e.g., regional NOAA Fisheries Scientists), we also include the Scenario Builder software. This software can be used to add new scenarios and to modify existing scenarios (e.g., visually scale the VES-V scene so that all species in your data set are seen in reasonable proportions). A zip file with the the Scenario Builder software and a user manual are included in this repository.
 
 **************
 

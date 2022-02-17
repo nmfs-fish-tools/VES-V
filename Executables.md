@@ -1,6 +1,6 @@
 # Download VES-V Executables 
 
-<a href="http://www.perspectx.com/VES-V/NOAA_VES-V_v144_PC.zip" download>VES-V 1.44 for PC/Windows</a>
+<a href="http://www.perspectx.com/VES-V/NOAA_VES-V_v144_PC.zip" download="NOAA_VES-V_v144_PC.zip">VES-V 1.44 for PC/Windows</a>
 
 [VES-V 1.44 for Mac/OS](http://www.perspectx.com/VES-V/NOAA_VES-V_v144_OSX.zip)
 
